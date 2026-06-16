@@ -1,3 +1,5 @@
+*Project summary-CivilMate is a Python-based construction material estimation toolkit developed for Civil Engineering applications. It provides concrete, brickwork, and steel estimators with cost calculation and report generation in TXT, Excel, and PDF formats.
+
 # CivilMate
 
 CivilMate is a Python-based construction material estimation toolkit developed for Civil Engineering applications.
