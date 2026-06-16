@@ -45,7 +45,7 @@ Each report includes:
 * OpenPyXL
 * ReportLab
 
-## Technologies Used
+## Skills Demonstrated
 
 * Object-Oriented Programming
 * File Handling
