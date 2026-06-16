@@ -45,15 +45,15 @@ Each report includes:
 * OpenPyXL
 * ReportLab
 
-## Skills Demonstrated
+## Technologies Used
 
-*Object-Oriented Programming
-*File Handling
-*Excel Automation (OpenPyXL)
-*PDF Generation (ReportLab)
-*Engineering Calculations
-*Project Architecture
-*Git and Github
+* Object-Oriented Programming
+* File Handling
+* Excel Automation (OpenPyXL)
+* PDF Generation (ReportLab)
+* Engineering CalculationsL
+* Project Architecture
+* Git and Github
 
 ## Project Structure
 
