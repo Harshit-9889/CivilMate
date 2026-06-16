@@ -58,21 +58,32 @@ Each report includes:
 ```text
 CivilMate/
 ├── calculators/
+│   ├── __init__.py
 │   ├── concrete.py
 │   ├── brickwork.py
 │   └── steel.py
 │
 ├── exports/
 │   ├── Excel/
+│   │   ├── concrete_export.py
+│   │   ├── brickwork_export.py
+│   │   └── steelwork_export.py
+│   │
 │   ├── Pdf/
+│   │   ├── concrete_export_pdf.py
+│   │   ├── brickwork_export_pdf.py
+│   │   └── steel_export_pdf.py
+│   │
 │   └── TXT/
+│       └── TXT_EXPORT.py
 │
 ├── data/
 │   └── rates.py
 │
 ├── engine.py
 ├── requirements.txt
-└── README.md
+├── README.md
+└── .gitignore
 ```
 
 ## Installation
