@@ -55,8 +55,7 @@ Each report includes:
 
 ## Project Structure
 
-## Project Structure
-
+```text
 CivilMate/
 ├── calculators/
 │   ├── concrete.py
@@ -74,6 +73,7 @@ CivilMate/
 ├── engine.py
 ├── requirements.txt
 └── README.md
+```
 
 ## Installation
 
