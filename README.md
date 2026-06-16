@@ -43,6 +43,38 @@ Each report includes:
 * OpenPyXL
 * ReportLab
 
+## Skills Demonstrated
+
+*Object-Oriented Programming
+*File Handling
+*Excel Automation (OpenPyXL)
+*PDF Generation (ReportLab)
+*Engineering Calculations
+*Project Architecture
+*Git and Github
+
+## Project Structure
+
+## Project Structure
+
+CivilMate/
+├── calculators/
+│   ├── concrete.py
+│   ├── brickwork.py
+│   └── steel.py
+│
+├── exports/
+│   ├── Excel/
+│   ├── Pdf/
+│   └── TXT/
+│
+├── data/
+│   └── rates.py
+│
+├── engine.py
+├── requirements.txt
+└── README.md
+
 ## Installation
 
 Install dependencies:
