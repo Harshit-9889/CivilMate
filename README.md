@@ -96,7 +96,55 @@ pip install -r requirements.txt
 
 ## Run Application
 
-python main.py
+python engine.py
+
+## Screenshots
+
+### Excel Reports
+
+#### Concrete Excel Report
+
+![Concrete Excel Report](screenshots/concrete_excel.png)
+
+#### Brickwork Excel Report
+
+![Brickwork Excel Report](screenshots/brickwork_excel.png)
+
+#### Steel Excel Report
+
+![Steel Excel Report](screenshots/steel_excel.png)
+
+
+### Pdf Reports
+
+#### Concrete Pdf Report
+
+![Concrete pdf Report](screenshots/concrete_pdf.png)
+
+#### Brickwork Pdf Report
+
+![Brickwork pdf Report](screenshots/brickwork_pdf.png)
+
+#### Steel Pdf Report
+
+![Steel pdf Report](screenshots/steel_pdf.png)
+
+
+### TXT Reports
+
+#### Concrete TXT Report
+
+![Concrete txt Report](screenshots/concrete_txt.png)
+
+#### Brickwork TXT Report
+
+![Brickwork txt Report](screenshots/brickwork_txt.png)
+
+#### Steel TXT Report
+
+![Steel txt Report](screenshots/steel_txt.png)
+
+
 
 ## Future Improvements
 
